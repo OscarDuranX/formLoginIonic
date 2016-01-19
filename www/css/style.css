@@ -1,0 +1,20 @@
+/* Empty. Add your own CSS if you like */
+
+.googleButton{
+    background-color: #FF0000;
+    color: #FFFFFF;
+}
+
+.faceButton{
+    background-color: #0000FF;
+    color: #FFFFFF;
+}
+
+.twitterButton{
+    background-color: #00FFFF;
+    color: #FFFFFF;
+}
+
+.padding-form{
+    padding: 50px 50px;
+}
